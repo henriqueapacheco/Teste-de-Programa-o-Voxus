@@ -1,0 +1,18 @@
+Estas são algumas informações sobre este projeto que foi solicitado.
+Foi criado um sistema de dashboard simples para manipulação de tarefas.
+
+Foram utilizados as seguintes linguagens de programação: 
+Bootstrap (HTML, CSS, JS) - Para a manipulação de um layout pré-moldado
+PHP - Para a manipulação dos dados que vem do banco de dados
+mySQL - Utilizado para a manipulação do banco de dados, como criação de (SELECT, INSERT, UPDATE e DELETE)
+
+Existe um sistema de login simples:
+USUÁRIO PRINCIPAL: admin
+SENHA: 123
+
+Após efetuar o login, ao clicar no menu tarefas, ele irá listar todas as tarefas existentes.
+
+Foram criadas 3 tarefas aleatórias para exemplificação do sistema.
+
+O login autenticado pelo Google e o armazenamento da Amazon Web Services (S3), não foram possíveis de serem realizados,
+pois estou em fase de aprendizado em relação à esses temas.
